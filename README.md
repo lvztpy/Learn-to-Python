@@ -1,4 +1,4 @@
 # Learn-to-Python
-to know what it is to read some code of program
-Still not quite understand what is going on there.
-But I will try my best to figure out
+1.to know what it is to read some code of program
+2.understand the fundiment conceptions
+3.do as the tutorial instances
