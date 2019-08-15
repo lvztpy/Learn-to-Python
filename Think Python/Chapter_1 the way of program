@@ -1,0 +1,18 @@
+#The way of Program
+
+Program
+       is a sequence of intructions when we want to solve a problem.
+       how to perform a computation(math & symbol)
+       ^ input
+       ^output
+       ^math  (evaluating)
+       ^conditional executing
+       ^repeatly use
+
+Debugging
+       ^Sytax errors
+       ^Runtime errors
+       ^Semantic errors
+
+
+Formal language and natural language

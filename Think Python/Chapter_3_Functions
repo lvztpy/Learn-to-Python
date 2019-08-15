@@ -1,0 +1,25 @@
+#Functions
+
+    a function is a named sequence of statements that performed a computation.
+    You can "call" the function by name.
+
+Example : type(32)
+
+    type is the name,() in the parentheis is called #argument#
+    we say the function takes argument and return a result.
+
+Type converting , Math function...
+
+
+Composition  combine all the elements(variable, expression, statements)
+
+Definaton a Functions
+
+    def , keyword
+    header + body
+    Header should end with a colon
+    Define before use
+
+Flow execution
+    from top to bottom
+    

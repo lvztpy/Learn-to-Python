@@ -1,0 +1,29 @@
+#Variables,expression and statement
+
+Value
+      is the basic things program work with.
+
+Variable
+      is a name refer to a value, is a set of mian memory
+
+      rule of Variable: not begin with number
+
+Keywords
+      and del from not while
+      as elif global or with
+      assert else if pass yield
+      break except import print
+      class exec in raise
+      continue finally is return
+      def for lambda try
+
+Expression
+      is combination of Variable, value and operators
+
+Statement
+      is a unit of code that Python intepreter can execute
+
+##the expression has a value, but statement doesn't
+
+String operations
+      +  *, conatation and copy

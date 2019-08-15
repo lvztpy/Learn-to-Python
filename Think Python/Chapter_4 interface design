@@ -1,0 +1,12 @@
+Generalization
+     adding a parameter to a function is called Generalization, it makes a function more general
+
+Refactoring
+     the process--rearrangeing a program to improve function interface and facilitate code reuse
+
+Once you start coding, you understand the problem better.
+Sometimes Refactoring is a sign that you have learned something
+
+Interface
+      is like a contract between a function and a caller, the caller agrees to provide certanin parameters
+      and the function agrees to do certain work.
