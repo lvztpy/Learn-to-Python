@@ -1,0 +1,9 @@
+
+**One of the best online resouce
+    An Introduction to Tkinter by Fredrik Lundh
+
+Widget
+    the elements that make up a Gui
+    include Button, Canvas,Entry, Scrollbar
+
+The option that controls the behavior of a button is command.
